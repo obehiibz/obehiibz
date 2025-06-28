@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @obehiibz
 - 👀 I’m interested in Digital Health
-- 🌱 I’m currently learning Data science
+- 🌱 I’m currently building a business as a digital transforation consultant
 - 💞️ I’m looking to collaborate on alot😀
 - 📫 How to reach me ...
 
