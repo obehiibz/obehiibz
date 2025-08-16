@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @obehiibz
 - 👀 I’m interested in Digital Health
-- 🌱 I’m currently building a business as a digital transforation consultant
+- 🌱 I’m currently transitioning to a digital transforation consultant
+- Building an EduSaaS
 - 💞️ I’m looking to collaborate on alot😀
-- 📫 How to reach me ...
+- 📫 Reach me on imayohanet@gmail.com
 
 <!---
 obehiibz/obehiibz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
